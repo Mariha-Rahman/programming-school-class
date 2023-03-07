@@ -1,0 +1,26 @@
+.top {
+    font-size: 27px;
+}
+
+.link a {
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+.link a:hover {
+    color: chocolate;
+}
+
+.name a {
+    text-decoration: none;
+}
+
+.name:hover {
+    color: white;
+}
+
+/* .name:hover {
+    display: block;
+    color: white;
+} */
